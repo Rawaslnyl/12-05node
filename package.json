@@ -1,0 +1,17 @@
+{
+  "name": "12-05node",
+  "version": "1.0.0",
+  "description": "node test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Rawaslnyl",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
